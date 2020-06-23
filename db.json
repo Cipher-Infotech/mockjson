@@ -11,14 +11,14 @@
       "ads_Link": "https://play.google.com/store/apps/details?id=thoptvlive.thoptvtipslive.thoptvvideomovies"
     },
     {
+      "image_path": "https://lh3.googleusercontent.com/8rushH06AxtAhesir4QBUsKStPnYEhIH5uDgwMjEFRCYGn6yIS6aRnIgXhzImrmXLkUN=s180-rw",
+      "ads_name": "Photo Video Maker",
+      "ads_Link": "https://play.google.com/store/apps/details?id=com.screen.photovideomaker"
+    },
+    {
       "image_path": "https://lh3.googleusercontent.com/Xh4o5KeRAKmvoN7czJwf3wrvfTO-mxDO6FPX1mYwVjXY8aaGZAsLDM7DI9VNHY8oFiUU=s180-rw",
       "ads_name": "Mira Cast:Screen Mirroring",
       "ads_Link": "https://play.google.com/store/apps/details?id=com.screen.screenmirroring"
-    },
-    {
-      "image_path": "https://lh3.googleusercontent.com/sjRuV5UYdaYmgbY8wXmw9Sj6fb-prS1fyfNrkbJ9P6xysyuyMPpmZijAUVlC2uHGptY=s180-rw",
-      "ads_name": "Colors tv",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.colors.guideforcolorstv"
     },
     {
       "image_path": "https://lh3.googleusercontent.com/wOaza_2fDKdVgJykbHyM7wZ2ceREb5u4bmNT9JMBzcLeNgxm7BKaOlj_dOI1kRKSXDxy=s180-rw",
@@ -44,11 +44,6 @@
       "image_path": "https://lh3.googleusercontent.com/K5N5dD9fHm9Vw6eJnhHw8SLKWLMQ5-16Tp-C7lE7K11D1yLtypMest-LIWfiWl1jCxK7=s180-rw",
       "ads_name": "MPL -Earn Free money",
       "ads_Link": "https://play.google.com/store/apps/details?id=com.mplguide.freefireguide"
-    },
-    {
-      "image_path": "https://lh3.googleusercontent.com/8rushH06AxtAhesir4QBUsKStPnYEhIH5uDgwMjEFRCYGn6yIS6aRnIgXhzImrmXLkUN=s180-rw",
-      "ads_name": "Photo Video Maker",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.screen.photovideomaker"
     }
   ]
 }

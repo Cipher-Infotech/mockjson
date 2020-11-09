@@ -2,18 +2,11 @@
   "ad1": [
        {
        "des":"",
-      "banner":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/image/bannerzee.png",
-      "image_path": "https://play-lh.googleusercontent.com/y4YqJY9groMiwMt3yAJxI4RFlx8GcDlAbCQHYEtdxTBCEvrcJ2PV9fNZDCtKT8bP5w=s180-rw",
-      "ads_name": "Zee TV Serials",
-      "ads_Link": "https://play.google.com/store/apps/details?id=room.data.roomdemo"
+      "banner":"https://techcodex.com/wp-content/uploads/2019/09/Garena-Free-Fire.jpg",
+      "image_path": "https://play-lh.googleusercontent.com/kclTyR9vNKTwB0EwxtuZGLrSwvQZ-Ipben88IRYGDKjkvH_vMqgBY5tEB8DunH0pePk=s180-rw",
+      "ads_name": "Free Fire-Free Diamonds And Skills",
+      "ads_Link": "https://play.google.com/store/apps/details?id=com.tricksfreefire.guidefreefire"
     },
-    {
-       "des":"",
-       "banner":"https://play-lh.googleusercontent.com/2xB_pzIRdI_zTS68u-JQjFZa3fyYZRWRa2o20jKsjqU9qdEKv8FyUKiMcy1YIr7qzRY=w1920-h912-rw",
-      "image_path": "https://play-lh.googleusercontent.com/R7q-iMbsui1LUcccR1HKD2zet6B82ufGmrhfOUOwZfVRkTIEQmQfL9FUq7IYPOj8ZYo=s180-rw",
-      "ads_name": "Star Plus Serials",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.starpluslivetv.starplusguide"
-    },  
     {
       "des":"",
       "banner":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/image/banneraadhar.png",
@@ -21,13 +14,6 @@
       "ads_name": "Download AadharCard",
       "ads_Link": "https://play.google.com/store/apps/details?id=aadhaarloan.aadhaarcarddownload.howtodownloadaadhaarcard"
     },
-     {
-       "des":"",
-       "banner":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/image/banner.png",
-      "image_path": "https://lh3.googleusercontent.com/EO8nJph0oTgjK0986nLcwVhdQ5SkkNiZZSYCRTBWOT8FthUi7C35Wq94urqsISq79x_0=s180-rw",
-      "ads_name": "Camouflage Skins For Minecraft",
-      "ads_Link": "https://play.google.com/store/apps/details?id=minecraftskin.skins.minecraft"
-    },  
      {
        "des":"",
        "banner":"https://play-lh.googleusercontent.com/2xB_pzIRdI_zTS68u-JQjFZa3fyYZRWRa2o20jKsjqU9qdEKv8FyUKiMcy1YIr7qzRY=w1920-h912-rw",

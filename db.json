@@ -1,29 +1,15 @@
 {
   "ad1": [
-     {
-       "des":"oreo tv APK is an indian very well-known video streaming app to show all of your movies and television series",
-      "banner":"https://play-lh.googleusercontent.com/R-K3d5KLQcu4fvQvbTe1B0lWQB_d_PRTa0-L8GFV4tH2VRimOGUE-JE5gECWfmL_Yw=w720-h310-rw",
-      "image_path":"https://play-lh.googleusercontent.com/fcCEjpdqexes209rsU2lerIdV4ZzicLNftOiUC2qV_5vqk15X5jX_V4GxR3FPdxboQ=s180-rw",
-      "ads_name": "Oreo Tv: Indian Movies,Live Cricket",
-      "ads_Link": "https://play.google.com/store/apps/details?id=oreo.oreotv.oreotvguide"
-    },
     {
       "des":"Your e-Aadhaar card is an electronic form of your Aadhaar card",
-      "banner":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/image/banneraadhar.png",
+      "banner":"https://play-lh.googleusercontent.com/PrmlUz6nIirhABL074EDRAeCKM6I7bQWPncF8io5vDmB1_Ub_hwZKwkWF85mqWaVo1Y=w720-h310-rw",
       "image_path": "https://lh3.googleusercontent.com/r3f_EFuy9gvjN_W3_Lh1iSelFiPlg3MJBzRCeFCc8qDgP4yD_N_GxWmXrIQfE0DjAg=s180-rw",
       "ads_name": "Download AadharCard",
       "ads_Link": "https://play.google.com/store/apps/details?id=aadhaarloan.aadhaarcarddownload.howtodownloadaadhaarcard"
-    },
-     {
-       "des":"Watch Live TV, HD Serials",
-       "banner":"https://play-lh.googleusercontent.com/2xB_pzIRdI_zTS68u-JQjFZa3fyYZRWRa2o20jKsjqU9qdEKv8FyUKiMcy1YIr7qzRY=w1920-h912-rw",
-       "image_path": "https://play-lh.googleusercontent.com/WsnD4UA_JoZKbwc50CSUOBGbaK8_Vg3DCxQlFtKAw_AlPISjHDjh5i4yMe4DfRMShA=s180-rw",
-      "ads_name": "Star Plus Serials",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.starutsav.starutsavguide"
     },  
     {
       "des":" Bank Account Balance Enquiry app that helps you check bank account balance anytime",
-       "banner":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/image/blogo.png",
+       "banner":"https://lh3.googleusercontent.com/KFrK1ecv-HOVv7iTEazL8zr7EZ3yqFGqAvBSJdDQvkxpo9uoz5aYBj8hogMHmWjfdkeK",
       "image_path": "https://lh3.googleusercontent.com/F6HilJLuH6nMzO9uYRfBdg58xWE8_ObWKQtmpVefxbCCkb2Hm9H-IX27PF3iWxqu7A=s180-rw",
       "ads_name": "Bank Balance Check",
       "ads_Link": "https://play.google.com/store/apps/details?id=com.bankbalance.bbcinstantbankbalancechecker"

@@ -1,21 +1,7 @@
 {
    "ads_show_flag":"off",
    "All_hotlink":[
-      {
-         "AppName":"Live Video call around the world guide and advise",
-         "PackageName":"com.newsol.testing",
-         "AId":"635",
-         "DAId":"120",
-         "Downloads":"0",
-         "Views":"0",
-         "PromoBanner":"https:\/\/pqowieproasdfairiweoioiesdkjlkdj7.s3.ap-south-1.amazonaws.com\/Prelax_sdk\/banner_Image\/",
-         "Logo":"https:\/\/pqowieproasdfairiweoioiesdkjlkdj7.s3.ap-south-1.amazonaws.com\/Prelax_sdk\/logo\/5916output.webp",
-         "ShortDiscription":"Live Video call around the world guide and advise",
-         "PrimaryLogos":"https:\/\/pqowieproasdfairiweoioiesdkjlkdj7.s3.ap-south-1.amazonaws.com\/Prelax_sdk\/logo\/",
-         "ssbanner":"https:\/\/pqowieproasdfairiweoioiesdkjlkdj7.s3.ap-south-1.amazonaws.com\/Prelax_sdk\/SS_Banner\/",
-         "Icon":"https:\/\/pqowieproasdfairiweoioiesdkjlkdj7.s3.ap-south-1.amazonaws.com\/Prelax_sdk\/icon\/",
-         "TId":""
-      },
+     
       {
          "AppName":"Video Collage Maker: Mix Video & Photo",
          "PackageName":"com.randomvideo.testing",
@@ -185,7 +171,21 @@
       }
    ],
    "Cross_platform_data":[
-     
+      {
+         "AppName":"Live Video call around the world guide and advise",
+         "PackageName":"com.newsol.testing",
+         "AId":"635",
+         "DAId":"120",
+         "Downloads":"0",
+         "Views":"0",
+         "PromoBanner":"https:\/\/pqowieproasdfairiweoioiesdkjlkdj7.s3.ap-south-1.amazonaws.com\/Prelax_sdk\/banner_Image\/",
+         "Logo":"https:\/\/pqowieproasdfairiweoioiesdkjlkdj7.s3.ap-south-1.amazonaws.com\/Prelax_sdk\/logo\/5916output.webp",
+         "ShortDiscription":"Live Video call around the world guide and advise",
+         "PrimaryLogos":"https:\/\/pqowieproasdfairiweoioiesdkjlkdj7.s3.ap-south-1.amazonaws.com\/Prelax_sdk\/logo\/",
+         "ssbanner":"https:\/\/pqowieproasdfairiweoioiesdkjlkdj7.s3.ap-south-1.amazonaws.com\/Prelax_sdk\/SS_Banner\/",
+         "Icon":"https:\/\/pqowieproasdfairiweoioiesdkjlkdj7.s3.ap-south-1.amazonaws.com\/Prelax_sdk\/icon\/",
+         "TId":""
+      },
       {
          "AppName":"Video Collage Maker: Mix Video & Photo",
          "PackageName":"com.randomvideo.testing",

@@ -1,6 +1,13 @@
 {
   "ad1": [
-     {
+   {
+      "des":"Zee allows you to watch free online videos on Zee TV Serials, movies, kids shows and entertainment episodes",
+      "banner":"https://anurbannomadic.files.wordpress.com/2020/08/value.png?w=1140&h=641",
+      "image_path": "https://play-lh.googleusercontent.com/8FXwcZaT8eMYkFocJ5JFO04H5xj1YD76n2tWuNbAAY9SloEHMEDiyzGfFIYbSq3yBYA=s180-rw",
+      "ads_name": "Zee Tv",
+      "ads_Link": "https://play.google.com/store/apps/details?id=com.freestarsportlivezeetv.livetvzee"
+    }, 
+    {
       "des":"Are you a fan of Free Fire Anniversary and want to learn all about the game?",
       "banner":"https://www.hjackets.com/blog/wp-content/uploads/2020/02/Free-Fire-banner.jpg",
       "image_path": "https://play-lh.googleusercontent.com/LfdhGovly3Jo_5FYz95b9-FKOwwzcz8MMIzMIyYBfJJ048rmGoi_tMsY8uA260rfCg=s180-rw",

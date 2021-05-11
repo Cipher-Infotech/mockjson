@@ -1,25 +1,11 @@
 {
   "ad1": [
-      {
+       {
       "des": "",
       "banner": "https://anurbannomadic.files.wordpress.com/2020/08/value.png?w=1140&h=641",
       "image_path": "https://play-lh.googleusercontent.com/wKwdl4avWELksgvDIrtllTdyBLXSw5PbfetYYh10BizMLSHpZQOrTVRcEQ_2-2yt0gk=s180-rw",
       "ads_name": "Zee Tv Serials And Movies Free",
       "ads_Link": "https://play.google.com/store/apps/details?id=com.freezeetvserielsguideapp16.freezeetvserielsguideapp"
-    },
-    {
-      "des": "",
-      "banner": "https://play-lh.googleusercontent.com/vBGGQWuFsitN-Ilo0C8YTEQl0TSn2RQz2Fi26k4VkaNm36-hSh0CAL0UMGE7pXdz5cY",
-      "image_path": "https://play-lh.googleusercontent.com/uoztEUGR_X1K1blid_rVMoxSYABrSMlv1-hCqLrmwaIkc97fD9jn_ipkMQ4NG4RJ=s180-rw",
-      "ads_name": "9 App Mobile Market",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.free9appsmobilemarketapp16.freeguidefor9appsmobile"
-    },
-    {
-      "des": "",
-      "banner": "https://play-lh.googleusercontent.com/p-sSRgRWoB6oyjHlJl3YbNJ0fam6o6DjidUXAlOK_fNsng9oslAfC5-Hojxflan846mr",
-      "image_path": "https://play-lh.googleusercontent.com/P4XimkU1xnmMuy-nuWzQ55TURy6pgHoSg2FQIHhXPX_hOgJ4LXz8B2bs4iFZPU9DrPg=s180-rw",
-      "ads_name": "Video Downloader",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.storystatusdownloader.snapdownloader.allvideodownloader"
     },
     {
       "des": "",
@@ -34,6 +20,34 @@
       "image_path": "https://play-lh.googleusercontent.com/MNvTBAQzqvso8OzsfTMUkhjWNhvhDE8p3qfFsUmVFY8jofXgBALpWoJBaIYpKjF1Cw=s180-rw",
       "ads_name": "Star Plus TV Channel",
       "ads_Link": "https://play.google.com/store/apps/details?id=com.freestarplusserielsguideapp16.freestarplusserielsguideapp"
+    },
+    {
+      "des": "",
+      "banner": "https://play-lh.googleusercontent.com/DeyLpGDBH3MVZysMgR6m2r--qy3t7LNXX3mQ_XqLYZWg594AkB6ro_cQRpiyNlge0rO6",
+      "image_path": "https://play-lh.googleusercontent.com/cgsVUMxVXWepCYcrzIQt3I7MKMp1MGqrsKr-q6nVbZULVW8X4IUNqFVj7ThbO_lWEq8=s180-rw",
+      "ads_name": "File Transfer & Sharing",
+      "ads_Link": "https://play.google.com/store/apps/details?id=shareit.xendertransfer.filetransfer"
+    },
+    {
+      "des": "",
+      "banner": "https://play-lh.googleusercontent.com/Vh_YFTKl80vlQrBta8k860bu4MRBb01HRuwk2cMJBnyFcX00Jj4_rplXjrKzSOzX57s",
+      "image_path": "https://play-lh.googleusercontent.com/nAOgijWCjE3lZAu2DeX4dGyBVyNtDFTcqCyFH7yaV25H9UPgZVCbBeuMKZIbYAuEINg=s180-rw",
+      "ads_name": "Resume Builder-CV Maker",
+      "ads_Link": "https://play.google.com/store/apps/details?id=com.resumebuilder.resume"
+    },
+    {
+      "des": "",
+      "banner": "https://play-lh.googleusercontent.com/vBGGQWuFsitN-Ilo0C8YTEQl0TSn2RQz2Fi26k4VkaNm36-hSh0CAL0UMGE7pXdz5cY",
+      "image_path": "https://play-lh.googleusercontent.com/uoztEUGR_X1K1blid_rVMoxSYABrSMlv1-hCqLrmwaIkc97fD9jn_ipkMQ4NG4RJ=s180-rw",
+      "ads_name": "9 App Mobile Market",
+      "ads_Link": "https://play.google.com/store/apps/details?id=com.free9appsmobilemarketapp16.freeguidefor9appsmobile"
+    },
+    {
+      "des": "",
+      "banner": "https://play-lh.googleusercontent.com/p-sSRgRWoB6oyjHlJl3YbNJ0fam6o6DjidUXAlOK_fNsng9oslAfC5-Hojxflan846mr",
+      "image_path": "https://play-lh.googleusercontent.com/P4XimkU1xnmMuy-nuWzQ55TURy6pgHoSg2FQIHhXPX_hOgJ4LXz8B2bs4iFZPU9DrPg=s180-rw",
+      "ads_name": "Video Downloader",
+      "ads_Link": "https://play.google.com/store/apps/details?id=com.storystatusdownloader.snapdownloader.allvideodownloader"
     },
      {
       "des": "",

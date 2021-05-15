@@ -1,46 +1,60 @@
 {
-  "ad1": [
-     {
-      "des": "4.9",
-      "banner": "https://play-lh.googleusercontent.com/5eEmkhmiG8e0tqtmlWnpf8c4Mu4-4tvFKO2acFlQpl6VaFM8fVNLNj5zKzckMnHS-rY",
-      "image_path": "https://play-lh.googleusercontent.com/FNtbpZJe_VWijq_VeJNx0AfB2FD8cIRXxUc3VY4kPopw0gMbyYmo0zlIzSARUHnWiQ=s180-rw",
-      "ads_name": "HappyMod - Happy Apps",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.freehappymodappguide17.happyapponlinetipshappymod"
-    },
-       {
-      "des": "4.8",
-      "banner": "https://anurbannomadic.files.wordpress.com/2020/08/value.png?w=1140&h=641",
-      "image_path": "https://play-lh.googleusercontent.com/wKwdl4avWELksgvDIrtllTdyBLXSw5PbfetYYh10BizMLSHpZQOrTVRcEQ_2-2yt0gk=s180-rw",
-      "ads_name": "Zee Tv Serials And Movies Free",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.freezeetvserielsguideapp18.freezeetvserielsguideapp"
-    },
-    {
-      "des": "4.8",
-      "banner": "https://play-lh.googleusercontent.com/9ylurBEqAlQblJV-1dKIdbujhm3nt9vhVNjUdQAMjfuaehwu3iHlJaICgOTc2yClYg",
-      "image_path": "https://play-lh.googleusercontent.com/Tb68jD7_YDMyVaYHgOKhyiC-a_NDVN_tJ0g8lsDPlHjACeA1YOH0kGiq0_WcgyoC4h-B=s180-rw",
-      "ads_name": "Star Utsav Live TV",
-      "ads_Link": "https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapp18.freestarutsavserialsapp"
-    },
-    {
-      "des": "4.3",
-      "banner": "https://play-lh.googleusercontent.com/Ro-oZflsG2sHYNTdM9W0SxUHkaEe4YDlX58PexJe3oReAeJXG16C3MGDVPKJmALrUWuu",
-      "image_path": "https://play-lh.googleusercontent.com/MNvTBAQzqvso8OzsfTMUkhjWNhvhDE8p3qfFsUmVFY8jofXgBALpWoJBaIYpKjF1Cw=s180-rw",
-      "ads_name": "Star Plus TV Channel",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.freestarplusserielsguideapp18.freestarplusserielsguideapp"
-    },
-    {
-      "des": "4.2",
-      "banner": "https://play-lh.googleusercontent.com/vBGGQWuFsitN-Ilo0C8YTEQl0TSn2RQz2Fi26k4VkaNm36-hSh0CAL0UMGE7pXdz5cY",
-      "image_path": "https://play-lh.googleusercontent.com/uoztEUGR_X1K1blid_rVMoxSYABrSMlv1-hCqLrmwaIkc97fD9jn_ipkMQ4NG4RJ=s180-rw",
-      "ads_name": "9 App Mobile Market",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.free9appsmobilemarketapp16.freeguidefor9appsmobile"
-    },
-     {
-      "des": "4.8",
-      "banner": "https://play-lh.googleusercontent.com/OAZ4NPPG6s1-6tmRmarfP48Ip73KjzE3lqF-Q50XRJ7NmvC-jhwFHvywuRol2WUbhQ=w720-h310-rw",
-      "image_path": "https://play-lh.googleusercontent.com/U8IPIqSYEGQTC1BCMsnwyLYIj_40P39np2lwFOmLmnX5UAEV1oxNEarucS2dmuxKm3I=s180-rw",
-      "ads_name": "Thop Tv Watch Live Tv",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.freecricketinthoptvcricket.thoptvapkdownloadappsthoptv"
-    }
-  ]
+   "ad1":[
+      {
+         "des":"4.6",
+         "banner":"https://play-lh.googleusercontent.com/5eEmkhmiG8e0tqtmlWnpf8c4Mu4-4tvFKO2acFlQpl6VaFM8fVNLNj5zKzckMnHS-rY",
+         "image_path":"https://play-lh.googleusercontent.com/FNtbpZJe_VWijq_VeJNx0AfB2FD8cIRXxUc3VY4kPopw0gMbyYmo0zlIzSARUHnWiQ=s180-rw",
+         "ads_name":"HappyMod - Happy Apps",
+         "ads_Link":"https://play.google.com/store/apps/details?id=com.freehappymodappguide17.happyapponlinetipshappymod"
+      },
+      {
+         "des":"4.7",
+         "banner":"https://anurbannomadic.files.wordpress.com/2020/08/value.png?w=1140&h=641",
+         "image_path":"https://play-lh.googleusercontent.com/wKwdl4avWELksgvDIrtllTdyBLXSw5PbfetYYh10BizMLSHpZQOrTVRcEQ_2-2yt0gk=s180-rw",
+         "ads_name":"Zee Tv Serials And Movies Free",
+         "ads_Link":"https://play.google.com/store/apps/details?id=com.freezeetvserielsguideapp18.freezeetvserielsguideapp"
+      },
+      {
+         "des":"4.9",
+         "banner":"https://play-lh.googleusercontent.com/o_FpCH2q69MQLDnqQ-WWHHlK9t1OSwAHiqkiVGHWD5iUqje2RN-SB6ofeRbo_kMzmAVq",
+         "image_path":"https://play-lh.googleusercontent.com/4SKlgMpP7m48HjDV5eKz3xuK_MLLUxNo18sl7szBmTOvcuX2h2JMGHaq1r5krgyIZKE=s180-rw",
+         "ads_name":"Xender-sharing files,photos,videos",
+         "ads_Link":"https://play.google.com/store/apps/details?id=com.filetransferguide20.filetransfersharingtips2021"
+      },
+      {
+         "des":"4.5",
+         "banner":"https://play-lh.googleusercontent.com/yZK5McnFRbNLqwBloh5R2aagIsmnG0nMBSNbzFQUxHezGazzk3m9Zd7nNMgdlRYLEA0",
+         "image_path":"https://play-lh.googleusercontent.com/DnMrjz1aEiCByO4NiDJ2vxLsXAMzaeumNw97bnVURUqw8DZNSffyM_yt3kz0C8UcMQ=s180-rw",
+         "ads_name":"SabTv Watch Live tv",
+         "ads_Link":"https://play.google.com/store/apps/details?id=com.freesabtvlivetvapp14.freeguideforsonylivsabtv"
+      },
+      {
+         "des":"4.8",
+         "banner":"https://play-lh.googleusercontent.com/9ylurBEqAlQblJV-1dKIdbujhm3nt9vhVNjUdQAMjfuaehwu3iHlJaICgOTc2yClYg",
+         "image_path":"https://play-lh.googleusercontent.com/Tb68jD7_YDMyVaYHgOKhyiC-a_NDVN_tJ0g8lsDPlHjACeA1YOH0kGiq0_WcgyoC4h-B=s180-rw",
+         "ads_name":"Star Utsav Live TV",
+         "ads_Link":"https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapp18.freestarutsavserialsapp"
+      },
+      {
+         "des":"4.3",
+         "banner":"https://play-lh.googleusercontent.com/Ro-oZflsG2sHYNTdM9W0SxUHkaEe4YDlX58PexJe3oReAeJXG16C3MGDVPKJmALrUWuu",
+         "image_path":"https://play-lh.googleusercontent.com/MNvTBAQzqvso8OzsfTMUkhjWNhvhDE8p3qfFsUmVFY8jofXgBALpWoJBaIYpKjF1Cw=s180-rw",
+         "ads_name":"Star Plus TV Channel",
+         "ads_Link":"https://play.google.com/store/apps/details?id=com.freestarplusserielsguideapp18.freestarplusserielsguideapp"
+      },
+      {
+         "des":"4.2",
+         "banner":"https://play-lh.googleusercontent.com/vBGGQWuFsitN-Ilo0C8YTEQl0TSn2RQz2Fi26k4VkaNm36-hSh0CAL0UMGE7pXdz5cY",
+         "image_path":"https://play-lh.googleusercontent.com/uoztEUGR_X1K1blid_rVMoxSYABrSMlv1-hCqLrmwaIkc97fD9jn_ipkMQ4NG4RJ=s180-rw",
+         "ads_name":"9 App Mobile Market",
+         "ads_Link":"https://play.google.com/store/apps/details?id=com.free9appsmobilemarketapp16.freeguidefor9appsmobile"
+      },
+      {
+         "des":"4.8",
+         "banner":"https://play-lh.googleusercontent.com/OAZ4NPPG6s1-6tmRmarfP48Ip73KjzE3lqF-Q50XRJ7NmvC-jhwFHvywuRol2WUbhQ=w720-h310-rw",
+         "image_path":"https://play-lh.googleusercontent.com/U8IPIqSYEGQTC1BCMsnwyLYIj_40P39np2lwFOmLmnX5UAEV1oxNEarucS2dmuxKm3I=s180-rw",
+         "ads_name":"Thop Tv Watch Live Tv",
+         "ads_Link":"https://play.google.com/store/apps/details?id=com.freecricketinthoptvcricket.thoptvapkdownloadappsthoptv"
+      }
+   ]
 }

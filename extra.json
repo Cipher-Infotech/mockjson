@@ -1,66 +1,49 @@
 {
-   "ads_show_flag":"off",
-   "All_hotlink":[
-     {
-      "des":"vidmatè is a powerful and quick video downloader app which auto detects downloads and fast download all videos from anywhere in one click as best video download manager.",
-      "banner":"https://play-lh.googleusercontent.com/FAJYZ5nfRaRYDi_HqwOy5DY8x9sjkecl_ku_5u8Xwf0bQdQV87lGcdX2VGGiCHuSUJk=w720-h310-rw",
-      "image_path": "https://play-lh.googleusercontent.com/VWp0rVLVpJIz-tQIsOff88drLi2KQJ-2ViSeAzEHsnjBaPdmfakQ7w7o7U2pcVP13Eek=s180-rw",
-      "ads_name": "Free Video Downloader - HD Video",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.vidmatefree.videodownloader"
-    }, 
-    {
-      "des":"Zee Tv guide gives a brief knowledge about signing up and subscribing to Zee Tv service.Many users has questions related to subscription of Zee Tv.",
-      "banner":"https://anurbannomadic.files.wordpress.com/2020/08/value.png?w=1140&h=641",
-      "image_path": "https://play-lh.googleusercontent.com/mAGnD8_QsCkVfTXXdcWxNH9D4yDSVv4iu3c7IVtgI7VYlJGd5_CnBb95LXIPcZHM3A=s180-rw",
-      "ads_name": "Zee TV Serials - Shows On Zee TV Guide Free",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.livezeetvfreestarplus.zeetvlivefreeguide"
-    }, 
-     {
-      "des":"best channels for live crickets matches live music live drama serials and thanks for using it must tell us your thought in review thanks enjoy.",
-      "banner":"https://play-lh.googleusercontent.com/2xB_pzIRdI_zTS68u-JQjFZa3fyYZRWRa2o20jKsjqU9qdEKv8FyUKiMcy1YIr7qzRY=w720-h310-rw",
-      "image_path": "https://play-lh.googleusercontent.com/kSp9Dk1AHZUorB6-hyf4QGPafy5bhTY_J0stnm7uNeetI11O2lTqIY7W_m_krYYz9Q=s180-rw",
-      "ads_name": "Star Plus Serials-Hotstar TV Star Plus Guide 2020",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.freelivetvstarplushotstar.starplusguidehotstar"
-    },  
-    {
-      "des":"Your e-Aadhaar card is an electronic form of your Aadhaar card",
-      "banner":"https://play-lh.googleusercontent.com/PrmlUz6nIirhABL074EDRAeCKM6I7bQWPncF8io5vDmB1_Ub_hwZKwkWF85mqWaVo1Y=w720-h310-rw",
-      "image_path": "https://lh3.googleusercontent.com/r3f_EFuy9gvjN_W3_Lh1iSelFiPlg3MJBzRCeFCc8qDgP4yD_N_GxWmXrIQfE0DjAg=s180-rw",
-      "ads_name": "Download AadharCard",
-      "ads_Link": "https://play.google.com/store/apps/details?id=aadhaarloan.aadhaarcarddownload.howtodownloadaadhaarcard"
-    },  
-    {
-      "des":" Bank Account Balance Enquiry app that helps you check bank account balance anytime",
-       "banner":"https://lh3.googleusercontent.com/KFrK1ecv-HOVv7iTEazL8zr7EZ3yqFGqAvBSJdDQvkxpo9uoz5aYBj8hogMHmWjfdkeK",
-      "image_path": "https://lh3.googleusercontent.com/F6HilJLuH6nMzO9uYRfBdg58xWE8_ObWKQtmpVefxbCCkb2Hm9H-IX27PF3iWxqu7A=s180-rw",
-      "ads_name": "Bank Balance Check",
-      "ads_Link": "https://play.google.com/store/apps/details?id=com.bankbalance.bbcinstantbankbalancechecker"
-    }
-   ],
-   "json_data":{
-      "Fake_video":"https:\/\/pqowieproasdfairiweoioiesdkjlkdj7.s3.ap-south-1.amazonaws.com\/Randonvideocallvideo\/Random_Video\/",
-      "Video_cnt":100,
-      "AM_FB_Priority":"",
-      "STARTAPP":"",
-      "AM APP ID":"ca-app-pub-7762845394857250~2886404322",
-      "AM INTERSTITIAL":"ca-app-pub-3940256099942544\/1033173712",
-      "AM BETA":"ca-app-pub-3940256099942544\/1033173712",
-      "AM NATIVE":"ca-app-pub-3940256099942544\/2247696110",
-      "AM BANNER":"ca-app-pub-3940256099942544\/6300978111",
-      "AM RECTANGLE":"",
-      "AM ADAPTIVE BANNER":"",
-      "FB AppID":"281571433167649",
-      "FB INTERSTITIAL":"CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "FB RECTANGLE":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "FB NATIVE BANNER":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "FB NATIVE":"CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "FB Reward Video":"",
-      "FB BANNER":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "FB ADAPTIVE BANNER":"",
-      "CF":"false",
-      "CURL":"https:\/\/play.google.com\/store\/apps\/details?id=com.dartushinc.videocall"
+   "STATUS":true,
+   "MSG":"",
+   "APP_SETTINGS":{
+      "app_name":"Daily Free Diamonds???? - Fire Guide 2021",
+      "app_accountName":"Finance And Credit Score Apps",
+      "app_packageName":"financeapps.dailyfire.freediamonds",
+      "app_logo":"https:\/\/androtechsolution.in\/AppsManager\/upload\/app\/AppLogo86e2f54008fa964a2d5f1ad8824fbe62.png",
+      "app_status":"Publish",
+      "app_privacyPolicyLink":"https:\/\/financencreditscoreapps.blogspot.com\/",
+      "app_needInternet":"0",
+      "app_updateAppDialogStatus":"0",
+      "app_versionCode":"",
+      "app_redirectOtherAppStatus":"0",
+      "app_newPackageName":"",
+      "app_dialogBeforeAdShow":"0",
+      "app_adShowStatus":"1",
+      "app_AppOpenAdStatus":"1",
+      "app_howShowAd":"0",
+      "app_adPlatformSequence":"Admob,Facebookaudiencenetwork",
+      "app_alernateAdShow":"",
+      "app_mainClickCntSwAd":"0",
+      "app_innerClickCntSwAd":"0"
    },
-   "video_ads":[
+   "PLACEMENT":{
+      "Admob":{
+         "ad_showAdStatus":"1",
+         "AppID":"ca-app-pub-5517092987757413~8240781391",
+         "Banner1":"ca-app-pub-3940256099942544/6300978111",
+         "Interstitial1":"ca-app-pub-3940256099942544/1033173712",
+         "Native1":"ca-app-pub-3940256099942544/2247696110",
+         "RewardedVideo1":"",
+         "AppOpen":"ca-app-pub-3940256099942544/3419835294"
+      },
+      "Facebookaudiencenetwork":{
+         "ad_showAdStatus":"1",
+         "Banner1":"YOUR_PLACEMENT_ID",
+         "Interstitial1":"YOUR_PLACEMENT_ID",
+         "Interstitial2":"YOUR_PLACEMENT_ID",
+         "Native1":"YOUR_PLACEMENT_ID",
+         "RewardedVideo1":"YOUR_PLACEMENT_ID",
+         "NativeBanner1":"YOUR_PLACEMENT_ID"
+      }
+   },
+   "MORE_APP":[
       
-   ]
+   ],
+   "EXTRA_DATA":null
 }

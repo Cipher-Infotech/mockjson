@@ -36,8 +36,8 @@
       "Facebookaudiencenetwork":{
          "ad_showAdStatus":"1",
          "Banner1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "Interstitial1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "Interstitial2":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "Interstitial1":"YOUR_PLACEMENT_ID",
+         "Interstitial2":"YOUR_PLACEMENT_ID",
          "Native1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
          "RewardedVideo1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
          "NativeBanner1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"

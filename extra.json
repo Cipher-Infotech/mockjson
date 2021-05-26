@@ -20,7 +20,8 @@
       "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
       "app_alernateAdShow":"",
       "app_mainClickCntSwAd":"0",
-      "app_innerClickCntSwAd":"0"
+      "app_innerClickCntSwAd":"0",
+      "app_adshow":"Facebookaudiencenetwork"
    },
    "PLACEMENT":{
       "Admob":{

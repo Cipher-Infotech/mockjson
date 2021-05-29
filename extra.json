@@ -17,13 +17,13 @@
       "app_adShowStatus":"1",
       "app_AppOpenAdStatus":"1",
       "app_howShowAd":"0",
-      "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
       "app_alernateAdShow":"",
       "app_mainClickCntSwAd":"0",
       "app_innerClickCntSwAd":"0",
       "app_adshow":"Facebookaudiencenetwork"
    },
    "PLACEMENT":{
+      "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
       "Admob":{
          "ad_showAdStatus":"1",
          "AppID":"ca-app-pub-5517092987757413~8240781391",

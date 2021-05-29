@@ -11,6 +11,7 @@
       "app_needInternet":"0",
       "app_updateAppDialogStatus":"0",
       "app_versionCode":"",
+       "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
       "app_redirectOtherAppStatus":"0",
       "app_newPackageName":"",
       "app_dialogBeforeAdShow":"0",
@@ -23,7 +24,7 @@
       "app_adshow":"Facebookaudiencenetwork"
    },
    "PLACEMENT":{
-      "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
+     
       "Admob":{
          "ad_showAdStatus":"1",
          "AppID":"ca-app-pub-5517092987757413~8240781391",

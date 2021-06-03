@@ -28,5 +28,65 @@
       "RewardedVideo1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "NativeBanner1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     }
-  }
+  },
+   "MORE_APP":[
+      {
+         "des":"4.5",
+         "banner":"https://play-lh.googleusercontent.com/pSzxhcQaqgJtUVvrbENLYIkfW7tIPtvZMeyfA75gH0lDdoFfiIURqzrGPG4JsG13VS_A",
+         "image_path":"https://play-lh.googleusercontent.com/aylmexpYthePiq0t00mV315WVZ0LVLumjsniPpIbo1nPWfDBWFjaIAzk3IY97zmjseg=s180-rw",
+         "ads_name":"Battlegrounds Mobile India",
+         "ads_Link":"https://play.google.com/store/apps/details?id=bettleground.mobile.indiagame6"
+      },
+       {
+         "des":"4.5",
+         "banner":"https://play-lh.googleusercontent.com/V6wWmkq7WHYJM7ofqOlbCY7nqAqAxoFHMc-VQQD-GXHRXG84w28wC4lN4UBxw46Bn34",
+         "image_path":"https://play-lh.googleusercontent.com/OhbJDtwOj6AL2slU4YDc7V22JP2OAVg5huekAala-6qfIoa3FD9MVL_mLCQs7JWtxA=s180-rw",
+         "ads_name":"Free Fire Skin Nicoo App",
+         "ads_Link":"https://play.google.com/store/apps/details?id=com.freenicooappdiamonds4.freeguidenicoapp"
+      },
+      {
+         "des":"4.8",
+         "banner":"https://play-lh.googleusercontent.com/9ylurBEqAlQblJV-1dKIdbujhm3nt9vhVNjUdQAMjfuaehwu3iHlJaICgOTc2yClYg",
+         "image_path":"https://play-lh.googleusercontent.com/Tb68jD7_YDMyVaYHgOKhyiC-a_NDVN_tJ0g8lsDPlHjACeA1YOH0kGiq0_WcgyoC4h-B=s180-rw",
+         "ads_name":"Star Utsav Live TV",
+         "ads_Link":"https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapp16.freestarutsavserialsapp"
+      },
+      {
+         "des":"4.3",
+         "banner":"https://play-lh.googleusercontent.com/Ro-oZflsG2sHYNTdM9W0SxUHkaEe4YDlX58PexJe3oReAeJXG16C3MGDVPKJmALrUWuu",
+         "image_path":"https://play-lh.googleusercontent.com/MNvTBAQzqvso8OzsfTMUkhjWNhvhDE8p3qfFsUmVFY8jofXgBALpWoJBaIYpKjF1Cw=s180-rw",
+         "ads_name":"Star Plus TV Channel",
+         "ads_Link":"https://play.google.com/store/apps/details?id=com.starplusserialsguideapp4.freestarplusserialsguideapp"
+      },
+      {
+         "des":"4.7",
+         "banner":"https://anurbannomadic.files.wordpress.com/2020/08/value.png?w=1140&h=641",
+         "image_path":"https://play-lh.googleusercontent.com/wKwdl4avWELksgvDIrtllTdyBLXSw5PbfetYYh10BizMLSHpZQOrTVRcEQ_2-2yt0gk=s180-rw",
+         "ads_name":"Zee Tv Serials And Movies Free",
+         "ads_Link":"https://play.google.com/store/apps/details?id=com.freezeetvserielsguideapp18.freezeetvserielsguideapp"
+      },
+     
+      {
+         "des":"4.5",
+         "banner":"https://play-lh.googleusercontent.com/92pN3BXg07fE9817V9M39tLnuNkR0TYvCK0j9vYm5TKUFKAUsbe5r3HzDcQveMogV4Y",
+         "image_path":"https://play-lh.googleusercontent.com/MzF88z1pvl6AaWB8lfONBr4bLfAPuaz8EVd8UF29miiFKIlvsR-U0JdVXjFs1CTRxWo8=s180-rw",
+         "ads_name":"Pocket TV Free Movies",
+         "ads_Link":"https://play.google.com/store/apps/details?id=com.pockettvwebseriesapp.pockettvwebseriesapps11"
+      },
+     
+      {
+         "des":"4.2",
+         "banner":"https://play-lh.googleusercontent.com/vBGGQWuFsitN-Ilo0C8YTEQl0TSn2RQz2Fi26k4VkaNm36-hSh0CAL0UMGE7pXdz5cY",
+         "image_path":"https://play-lh.googleusercontent.com/uoztEUGR_X1K1blid_rVMoxSYABrSMlv1-hCqLrmwaIkc97fD9jn_ipkMQ4NG4RJ=s180-rw",
+         "ads_name":"9 App Mobile Market",
+         "ads_Link":"https://play.google.com/store/apps/details?id=com.free9appsmobilemarketapp16.freeguidefor9appsmobile"
+      },
+      {
+         "des":"4.8",
+         "banner":"https://play-lh.googleusercontent.com/OAZ4NPPG6s1-6tmRmarfP48Ip73KjzE3lqF-Q50XRJ7NmvC-jhwFHvywuRol2WUbhQ=w720-h310-rw",
+         "image_path":"https://play-lh.googleusercontent.com/U8IPIqSYEGQTC1BCMsnwyLYIj_40P39np2lwFOmLmnX5UAEV1oxNEarucS2dmuxKm3I=s180-rw",
+         "ads_name":"Thop Tv Watch Live Tv",
+         "ads_Link":"https://play.google.com/store/apps/details?id=com.freecricketinthoptvcricket.thoptvapkdownloadappsthoptv"
+      }
+   ]
 }

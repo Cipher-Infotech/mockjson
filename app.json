@@ -1,8 +1,5 @@
 {
-  "APP_SETTINGS": {
   
-  },
-  "PLACEMENT": {
        "app_dialogBeforeAdShow":"0",
     "app_adPlatformSequence": "Facebookaudiencenetwork,Admob",
     "app_howShowAd":"0",
@@ -27,5 +24,5 @@
       "RewardedVideo1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "NativeBanner1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     }
-  }
+  
 }

@@ -1,5 +1,6 @@
 {
   "APP_SETTINGS": {
+     "app_dialogBeforeAdShow":"0",
     "app_adPlatformSequence": "Facebookaudiencenetwork,Admob",
     "app_adShowStatus": "1",
     "app_howShowAd":"0",

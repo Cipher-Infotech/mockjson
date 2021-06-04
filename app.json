@@ -1,7 +1,7 @@
 {
   "APP_SETTINGS": {
     "app_needInternet": "0",
-    "app_adPlatformSequence": "Admob,Facebookaudiencenetwork",
+    "app_adPlatformSequence": "Facebookaudiencenetwork,Admob",
     "app_dialogBeforeAdShow": "0",
     "app_adShowStatus": "1",
     "app_howShowAd":"0",

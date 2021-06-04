@@ -7,7 +7,7 @@
     "app_howShowAd":"0",
     "app_alernateAdShow":"",
     "qureka":"http://282.win.qureka.com/",
-    "app_AppOpenAdStatus": "1",
+    "app_AppOpenAdStatus": "0",
     "more_app":"https://raw.githubusercontent.com/Cipher-Infotech/mockjson/master/db.json"
   },
   "PLACEMENT": {

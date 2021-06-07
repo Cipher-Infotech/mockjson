@@ -1,7 +1,7 @@
 {
    "app_AppOpenAdStatus":"1",
    "app_dialogBeforeAdShow":"0",
-   "app_adPlatformSequence":"Admob,Facebookaudiencenetwork",
+   "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
    "app_howShowAd":"0",
    "qureka":"http://282.win.qureka.com/",
    "more_app":"https://raw.githubusercontent.com/Cipher-Infotech/mockjson/master/db.json",

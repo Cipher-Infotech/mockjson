@@ -2,6 +2,41 @@
    "ad1":[
       {
          "des":"4.5",
+         "banner":"https://play-lh.googleusercontent.com/-PbtHoJDSWlZBY9IqVLWhQfxKv33jpdDd_V2neVbSVnROwYBLQ_cNCeI3FCPw4q7Gg",
+         "image_path":"https://play-lh.googleusercontent.com/eaVX4AThntW6IGc5btaVj0n4SqjY3W7MA3YI95T32eb8zMWpCuFe71Zsn8x7UwYtBA=s180-rw",
+         "ads_name":"HappyMod",
+         "ads_Link":"https://play.google.com/store/apps/details?id=com.happymodapkdownloadr12.happyapponlinetipshappymods"
+      },
+      {
+         "des":"4.5",
+         "banner":"https://play-lh.googleusercontent.com/2D8TfaN9mX-kRsxoInIc9vKgC9xjHn4Ya-erJbIFa19F13GxRJDWsUE69BjHAQ1Hl4tO",
+         "image_path":"https://play-lh.googleusercontent.com/LgrpKQ5L5fjBMhFbi1niDSn2Thi2bOC8R_J1KK6DbOX7wrY_wR1ixippQCVC7VagXiE=s180-rw",
+         "ads_name":"Taptap Apk Games",
+         "ads_Link":"https://play.google.com/store/apps/details?id=taptapapk.taptapapkdownloader.taptapapkgames1"
+      },
+       {
+         "des":"4.5",
+         "banner":"https://play-lh.googleusercontent.com/Gbtd2faKGWrH95JZ_46Sh7090luDjXWv3ROGVkXRKhpHwPQp3kp8pAPsF1m-l30R-B-C",
+         "image_path":"https://play-lh.googleusercontent.com/TncRcBfuMSeJsvqW0mn-N7ZoYCwarRDJ7fIbeimR8GgD6bTUsZLdAEDo8q-1BQBQCKo2=s180-rw",
+         "ads_name":"Ranch simulator - Farming Ranch simulator",
+         "ads_Link":"https://play.google.com/store/apps/details?id=com.ranchsimulatorgames.ranchsimulatorgamefree12"
+      },
+      {
+         "des":"4.5",
+         "banner":"https://play-lh.googleusercontent.com/dfYg1N8uBozglWBKJizt23SHRcXzQqYAeovgw887soU6UhBLXaydAt-Z6A4FHT_1xg",
+         "image_path":"https://play-lh.googleusercontent.com/xtJBY2KeqtqcVjBdcSj9wOhDGgiVxRf8_lf1ckyhnIZSwN2DnUNeoHBqcubCxf4CPWY=s180-rw",
+         "ads_name":"Nico App-Free Fire Skin",
+         "ads_Link":"https://play.google.com/store/apps/details?id=com.freenicooappdiamondsnicoo3.freeguidenicooapp"
+      },
+      {
+         "des":"4.8",
+         "banner":"https://play-lh.googleusercontent.com/9ylurBEqAlQblJV-1dKIdbujhm3nt9vhVNjUdQAMjfuaehwu3iHlJaICgOTc2yClYg",
+         "image_path":"https://play-lh.googleusercontent.com/Tb68jD7_YDMyVaYHgOKhyiC-a_NDVN_tJ0g8lsDPlHjACeA1YOH0kGiq0_WcgyoC4h-B=s180-rw",
+         "ads_name":"Star Utsav Live TV",
+         "ads_Link":"https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapp16.freestarutsavserialsapp"
+      },
+      {
+         "des":"4.5",
          "banner":"https://play-lh.googleusercontent.com/Uhah61bDPl9r3yZxgy1fp4W2_aHyqdLXyQi7PGTk4DAIGWbPMSV7R7L6wqVmANaLMw",
          "image_path":"https://play-lh.googleusercontent.com/werf1s5Vnl42owfi8jq0XZnhkWOaO5svWMlnbnYTCgQzedec7C_kb1eE5MH4e3iyfs0P=s180-rw",
          "ads_name":"GHD SPORTS -Live Sports",
@@ -13,13 +48,6 @@
          "image_path":"https://play-lh.googleusercontent.com/gT2Pquv7Y05zvz3Vyem6-MHNigHnP8VQZD4306_YZvUfdKPX2w74S4eFvuM3hb0A4w=s180-rw",
          "ads_name":"Star Sports Live HD",
          "ads_Link":"https://play.google.com/store/apps/details?id=com.starsportlivecricketapp2.starsportstvguide"
-      },
-       {
-         "des":"4.8",
-         "banner":"https://play-lh.googleusercontent.com/yMlMhqxpWGDVvYMFR0Dm4hkrY9rP_JUXdCaCiZsubaVMax50HoB9MWexAqFuIA8ZgmPH",
-         "image_path":"https://play-lh.googleusercontent.com/D_lCguilm2PlqeuFiiXhvBvwkhE-yUSBz0c6rU7j5pRyabxDvxRNIW_HsAHdt1HSUlpc=s180-rw",
-         "ads_name":"Hotstar LiveTv Shows",
-         "ads_Link":"https://play.google.com/store/apps/details?id=com.hotstarllivecrickettvapp.livehotstarlliveappguideapps2"
       },
       {
          "des":"4.8",
@@ -37,27 +65,6 @@
       }, 
       {
          "des":"4.5",
-         "banner":"https://play-lh.googleusercontent.com/2D8TfaN9mX-kRsxoInIc9vKgC9xjHn4Ya-erJbIFa19F13GxRJDWsUE69BjHAQ1Hl4tO",
-         "image_path":"https://play-lh.googleusercontent.com/d2DotSZz1ZPgGrI_KMO2AsH4Qu4ANFad9sBeLBR_K0XqUfFfuK9KCxXWZBCtmKwkpxY=s180-rw",
-         "ads_name":"Taptap Apk Games",
-         "ads_Link":"https://play.google.com/store/apps/details?id=taptapapk.taptapapkdownloader.taptapapkgames1"
-      },
-      {
-         "des":"4.5",
-         "banner":"https://play-lh.googleusercontent.com/pSzxhcQaqgJtUVvrbENLYIkfW7tIPtvZMeyfA75gH0lDdoFfiIURqzrGPG4JsG13VS_A",
-         "image_path":"https://play-lh.googleusercontent.com/aylmexpYthePiq0t00mV315WVZ0LVLumjsniPpIbo1nPWfDBWFjaIAzk3IY97zmjseg=s180-rw",
-         "ads_name":"Battlegrounds Mobile India",
-         "ads_Link":"https://play.google.com/store/apps/details?id=bettleground.mobile.indiagame6"
-      },
-      {
-         "des":"4.5",
-         "banner":"https://play-lh.googleusercontent.com/dfYg1N8uBozglWBKJizt23SHRcXzQqYAeovgw887soU6UhBLXaydAt-Z6A4FHT_1xg",
-         "image_path":"https://play-lh.googleusercontent.com/xtJBY2KeqtqcVjBdcSj9wOhDGgiVxRf8_lf1ckyhnIZSwN2DnUNeoHBqcubCxf4CPWY=s180-rw",
-         "ads_name":"Nico App-Free Fire Skin",
-         "ads_Link":"https://play.google.com/store/apps/details?id=com.freenicooappdiamondsnicoo3.freeguidenicooapp"
-      },
-      {
-         "des":"4.5",
          "banner":"https://play-lh.googleusercontent.com/l5ywv9qYvKtEP7eR0HfSVPzVXqV7eTIlGD7BKj7LSsDwSekdXTRuQBlnucEPUOmgseg",
          "image_path":"https://play-lh.googleusercontent.com/G8iTXKxF1vwY1HIjS34ByXlDITuH2TkgQSxJCLQDMMCwLdFqgOVGox6_rmlP7c3yohk=s180-rw",
          "ads_name":"SunTv Live TV Serial",
@@ -69,13 +76,6 @@
          "image_path":"https://play-lh.googleusercontent.com/6zE5NjYyZKGOxiBOYBMR0nEBKHdVFRtTkoMx_f6uTVmgUjTFB6mXDDkv2ax__zvSAQ=s180-rw",
          "ads_name":"Live Net TV",
          "ads_Link":"https://play.google.com/store/apps/details?id=com.livenettvcricketappworld.livenettvapp20"
-      },
-      {
-         "des":"4.8",
-         "banner":"https://play-lh.googleusercontent.com/9ylurBEqAlQblJV-1dKIdbujhm3nt9vhVNjUdQAMjfuaehwu3iHlJaICgOTc2yClYg",
-         "image_path":"https://play-lh.googleusercontent.com/Tb68jD7_YDMyVaYHgOKhyiC-a_NDVN_tJ0g8lsDPlHjACeA1YOH0kGiq0_WcgyoC4h-B=s180-rw",
-         "ads_name":"Star Utsav Live TV",
-         "ads_Link":"https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapp16.freestarutsavserialsapp"
       }
      
    ]

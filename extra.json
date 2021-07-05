@@ -16,7 +16,7 @@
       "app_newPackageName":"",
       "app_dialogBeforeAdShow":"0",
       "app_adShowStatus":"1",
-      "app_AppOpenAdStatus":"0",
+      "app_AppOpenAdStatus":"1",
       "app_howShowAd":"0",
       "app_alernateAdShow":"",
       "app_mainClickCntSwAd":"0",
@@ -26,7 +26,7 @@
    "PLACEMENT":{
      
       "Admob":{
-         "ad_showAdStatus":"1",
+         "ad_showAdStatus":"0",
          "AppID":"ca-app-pub-5517092987757413~8240781391",
          "Banner1":"ca-app-pub-3940256099942544/6300978111",
          "Interstitial1":"ca-app-pub-3940256099942544/1033173712",

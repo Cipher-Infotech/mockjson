@@ -1,6 +1,26 @@
 {
    "ad1":[
-  
+  {
+         "des":"4.5",
+         "banner":"https://play-lh.googleusercontent.com/f-jGJFE0aST4ibaOexk9mZ5vgMOdkhe9bCruICSOhsq7RZ3p4AB9UTy_xgGBn22vdQ",
+         "image_path":"https://play-lh.googleusercontent.com/Ig0-HG3ES0qgC4lqKZwZPgyj_dciMnocuyqa9ZIH8mlgcfS0jRxQWo01JA8psI1kTXU=s180-rw",
+         "ads_name":"Star Utsav Live TV",
+         "ads_Link":"https://play.google.com/store/apps/details?id=starutsavlive.starutsavhindiserialsapps3.freestarutsavserialsapp"
+      },
+       {
+         "des":"4.8",
+         "banner":"https://play-lh.googleusercontent.com/Y1pXbJOQeS5PVllu3Yw4ZEvT8tecc0Ni_7X89SGrz18UdHTvB7AJaqtNvvatIHtmGA",
+         "image_path":"https://play-lh.googleusercontent.com/8cuMX-pjjIS1gl_pOW2G48zvINyHGwnbi4gKlDMIaZXUr4xmUCU8SH-VrpCSUQptQnw=s180-rw",
+         "ads_name":"Tap Tap Apk",
+         "ads_Link":"https://play.google.com/store/apps/details?id=taptapappsdownload14.taptapapkdownloader.taptapapkgamesdownloader"
+      },
+       {
+         "des":"4.5",
+         "banner":"https://play-lh.googleusercontent.com/GUSzo9HpO3JqbPryCXPe0ORHlHSUe6KH_6tQ270MS18T5Ml-QIU71bl5FeFD1QiPGQQ",
+         "image_path":"https://play-lh.googleusercontent.com/rz7FNw70Mw7mbViasi4Lf16yFhFo_tLvFFg5TQT6qLzN5doivD1GIwJAikgiXg9AVAk=s180-rw",
+         "ads_name":"Pro Create Editor",
+         "ads_Link":"https://play.google.com/store/apps/details?id=com.freeprocreatedrawingappguide.freeprocreatedrawingapp14"
+      },
        {
          "des":"4.5",
          "banner":"https://play-lh.googleusercontent.com/Gbtd2faKGWrH95JZ_46Sh7090luDjXWv3ROGVkXRKhpHwPQp3kp8pAPsF1m-l30R-B-C",
@@ -20,29 +40,7 @@
          "banner":"https://play-lh.googleusercontent.com/vhhzs9yjOT_MXteeoXk6mh5xl0NCsRfZ30d9jVKA4Q81to3VUrw2upqrKuXSXkIQgF4",
          "image_path":"https://play-lh.googleusercontent.com/TpRIy4YEWl27B4aw8NJd0DGX-A3K7RwE0qCgOHrdqUT-3dplGp_OzEjeZrINrCLCoYk=s180-rw",
          "ads_name":"Star Plus Live TV",
-         "ads_Link":"https://play.google.com/store/apps/details?id=com.starplushindiseriallive7.freestarplusserialsliveapp"
-      },
-      {
-         "des":"4.8",
-         "banner":"https://play-lh.googleusercontent.com/1PEBDvLRifMSY3t1fwmJNRQf7tFdDGeQ7Nk3a80ebDSAvdB_8mD6XvoQSXlwlvc3BwU",
-         "image_path":"https://play-lh.googleusercontent.com/GDfLDZERP0X7MN1FZWQIC0Hf3d8Bo-x4vsytfHBtLyvNDpagllWRMkiXWb_CZt8VE9k=s180-rw",
-         "ads_name":"Colors TV Serial-Voot TV",
-         "ads_Link":"https://play.google.com/store/apps/details?id=com.colorstvliveserialsapp.colorstvserialsapp8"
-      },
-      {
-         "des":"4.5",
-         "banner":"https://play-lh.googleusercontent.com/f-jGJFE0aST4ibaOexk9mZ5vgMOdkhe9bCruICSOhsq7RZ3p4AB9UTy_xgGBn22vdQ",
-         "image_path":"https://play-lh.googleusercontent.com/Ig0-HG3ES0qgC4lqKZwZPgyj_dciMnocuyqa9ZIH8mlgcfS0jRxQWo01JA8psI1kTXU=s180-rw",
-         "ads_name":"Star Utsav Live TV",
-         "ads_Link":"https://play.google.com/store/apps/details?id=starutsavlive.starutsavhindiserialsapps3.freestarutsavserialsapp"
-      },
-      {
-         "des":"4.8",
-         "banner":"https://play-lh.googleusercontent.com/d_X2HwfH48RghuVfGqPPiOxzVNMy2K39MCuX57h9L7TdaqMPhzJmQ3AEkiTHL4JuPMo",
-         "image_path":"https://play-lh.googleusercontent.com/9h3cw6ybybLflHj_uxUUV9p9i0LQb2aWVv21fsktGYJghStwR701WvxF-OPr5EnyXg=s180-rw",
-         "ads_name":"Sony SAB Live TV",
-         "ads_Link":"https://play.google.com/store/apps/details?id=com.sabtvlivetvapp8.freeguideforsonylivsabtvapp"
+         "ads_Link":"https://play.google.com/store/apps/details?id=com.starplushindiseriallivekadja.freestarplusserialsliveapp"
       }
-     
    ]
 }

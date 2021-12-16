@@ -23,10 +23,10 @@
       },
        {
          "des":"4.7",
-         "banner":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/megaban.png",
-         "image_path":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/mega.png",
-        "ads_name":"Play quiz and win coins",
-         "ads_Link":"https://282.win.qureka.com/"
+         "banner":"https://play-lh.googleusercontent.com/tDqvFrUeGJNRFE_qleUBgAjbcz_-mCQ8Eo3B924qN-pO_kMT6r5YudzsTWgS0wi-7yZ5",
+         "image_path":"https://play-lh.googleusercontent.com/Hoz-Ma9VtKqve71CJhyrTROKFfGMKctZ6sUoep0KP-wb5cqTlhPgM2bKqX-7ZPxK6ttt=s180-rw",
+        "ads_name":"Nicoo app",
+         "ads_Link":"https://play.google.com/store/apps/details?id=com.nicooappdiamond9.guidenicoofreefiremaxskin"
       },
        {
          "des":"4.9",
@@ -39,6 +39,20 @@
          "des":"4.5",
          "banner":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/iplban.png",
          "image_path":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/sports.png",
+         "ads_name":"Play quiz and win coins",
+         "ads_Link":"https://282.win.qureka.com/"
+      },
+       {
+         "des":"4.5",
+         "banner":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/iplban.png",
+         "image_path":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/sports.png",
+         "ads_name":"Play quiz and win coins",
+         "ads_Link":"https://282.win.qureka.com/"
+      },
+       {
+         "des":"4.8",
+         "banner":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/Sportsban.png",
+         "image_path":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/geography.png",
          "ads_name":"Play quiz and win coins",
          "ads_Link":"https://282.win.qureka.com/"
       }

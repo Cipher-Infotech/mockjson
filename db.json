@@ -2,53 +2,45 @@
    "ad1":[
       {
          "des":"4.8",
-         "banner":"https://play-lh.googleusercontent.com/UMOGT5nCQ074SOtrSD0dmd14wbcT_lAAwwqTIHQZGdHJmV4rgsXeyEceDIctyJkLv1A",
-         "image_path":"https://play-lh.googleusercontent.com/xNs5Bslk-5HsogE5n7W3PXw2m2snX5MBKFdO127ab64EwGFP8m2XgxJ3oXFIg379qNs=s180-rw",
-         "ads_name":"THOP TV-Watch Cricket live",
-         "ads_Link":"https://play.google.com/store/apps/details?id=com.thop.tvlivecrickettvhd3"
+         "banner":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/Sportsban.png",
+         "image_path":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/coins.png",
+         "ads_name":"Play quiz and win coins",
+         "ads_Link":"https://282.win.predchamp.com/"
       },
-       {
-         "des":"4.8",
-         "banner":"https://play-lh.googleusercontent.com/Czvar70kGi_3siT0fEN4LzG940Mo0x-RsDYdv-DkHGbCcCDtBsWeLhuKlnJBdQpk-CM",
-         "image_path":"https://play-lh.googleusercontent.com/lgFoD9GzkJAnlqTbMWGG8SxkCJzwsY8v-9ZOm3siWpDWNRMdocWvVnD3G2gVFhQHixEQ=s180-rw",
-         "ads_name":"Dream 11 Fantasy",
-         "ads_Link":"https://play.google.com/store/apps/details?id=com.jasmin.dreamteam11cricket"
+        {
+         "des":"4.5",
+         "banner":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/iplban.png",
+         "image_path":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/sports.png",
+         "ads_name":"Play quiz and win coins",
+         "ads_Link":"https://282.win.predchamp.com/"
       },
       {
-         "des":"4.7",
-         "banner":"https://play-lh.googleusercontent.com/0utKucKPd0irHWZ-EQ4beaJBYrhstJY5SttSMx2QlME3y8rW54jms9qU--_9Bz3psw",
-         "image_path":"https://play-lh.googleusercontent.com/EEaJb-QaURPtwP2x5eQKxAC0o_nJ7_ecRiHwijT7jy5lL9ZfSzfQBhcu95eB9pfOFg=s180-rw",
-         "ads_name":"Star sports Live Cricket",
-         "ads_Link":"https://play.google.com/store/apps/details?id=com.starsports.cricketlivetv3"
-      },
-       {
          "des":"4.8",
-         "banner":"https://play-lh.googleusercontent.com/c4WjydtF0y7-CYohpO1HTGwyWRCXWOszNwWPxn04UuKoodMvmRAR6tbVmBqUS6F26ag",
-         "image_path":"https://play-lh.googleusercontent.com/SqBV9I-GZcxva2vHzOtjx7mJChR8bPlLXVUmbUnd4l9lWa6XxhnD8aciFi8DUawAcQ=s180-rw",
-         "ads_name":"Pika Show Tv",
-         "ads_Link":"https://play.google.com/store/apps/details?id=com.pikashow.cricketlivehdtv3"
+         "banner":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/Sportsban.png",
+         "image_path":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/geography.png",
+         "ads_name":"Play quiz and win coins",
+         "ads_Link":"https://282.win.predchamp.com/"
       },
-       
-       {
+         {
          "des":"4.9",
-         "banner":"https://play-lh.googleusercontent.com/pZYSHhCr2W7lreyau_1xwE7isPQ471mW_Md_sLCLNA_vt-sC2UOCTPwoJW_EvdvARg",
-         "image_path":"https://play-lh.googleusercontent.com/UjxEBX-Q35SXNbDMWaWuQrvuCI1JVbIXjI5P29E1x6cnEbI5chLEbme4H2chOss282_m=s180-rw",
-         "ads_name":"AirtelTv Live Cricket ",
-         "ads_Link":"https://play.google.com/store/apps/details?id=com.kamani.crickettairteltv1"
+         "banner":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/quizban.png",
+         "image_path":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/tech.png",
+         "ads_name":"Play quiz and win coins",
+         "ads_Link":"https://282.win.predchamp.com/"
       },
        {
          "des":"4.5",
-         "banner":"https://play-lh.googleusercontent.com/SfrVWDnk18DZzBN70Qmzhf7UZtTSDNvLm9Ql-d5XQXC9PzNo8x0vx5Fjo7yFL6oHqi4",
-         "image_path":"https://play-lh.googleusercontent.com/s7bIT4fHO0c7_WEXfqBSyu8RgFVvXEnfGK9KAuVLEdKgvnzcFeUnhJvfh-tZ5ejPb4I=s180-rw",
-         "ads_name":"Live Cricket TV",
-         "ads_Link":"https://play.google.com/store/apps/details?id=com.livehd.livecrickettv8"
+         "banner":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/iplban.png",
+         "image_path":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/sports.png",
+         "ads_name":"Play quiz and win coins",
+         "ads_Link":"https://282.win.predchamp.com/"
       },
        {
          "des":"4.8",
-         "banner":"https://play-lh.googleusercontent.com/AhkJ8ZFWEvyLtdo9HrQ-aRwtlo0gF0QIEQTARiPC8Zi5R69IRXDia4xEI7XDt8vqTObH",
-         "image_path":"https://play-lh.googleusercontent.com/EFQSqKeIglMEgb4xbnzx4NGnMiKW_GghZmxyeob83Sy6NYc4OVp-mNE694WWKZoHuQ=s180-rw",
-         "ads_name":"OreoTv",
-         "ads_Link":"https://play.google.com/store/apps/details?id=com.livehd.oreocrickettvapp3"
+         "banner":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/Sportsban.png",
+         "image_path":"https://raw.githubusercontent.com/Cipher-Infotech/TestRepo/main/qureka/geography.png",
+         "ads_name":"Play quiz and win coins",
+         "ads_Link":"https://282.win.predchamp.com/"
       }
    ]
 }
